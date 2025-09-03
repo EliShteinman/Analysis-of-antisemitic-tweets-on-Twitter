@@ -201,5 +201,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-/results/tweets_dataset_cleaned.csv
-/data/tweets_dataset.csv
